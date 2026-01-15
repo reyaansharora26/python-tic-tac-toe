@@ -26,7 +26,7 @@ Here are a few screenshots of the game in action:
   <img src="screenshot 2.png" width="200" />
 </p>
 
-> Make sure `screenshot1.png` and `screenshot2.png` are in the same folder as this README.
+
 
 ---
 
