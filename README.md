@@ -22,8 +22,8 @@ This project features an interactive GUI, score tracking, and winning line highl
 Here are a few screenshots of the game in action:
 
 <p float="left">
-  <img src="screenshot1.png" width="200" />
-  <img src="screenshot2.png" width="200" />
+  <img src="screenshot 1.png" width="200" />
+  <img src="screenshot 2.png" width="200" />
 </p>
 
 > Make sure `screenshot1.png` and `screenshot2.png` are in the same folder as this README.
